@@ -1,2 +1,2 @@
 My first readme. 
-Updated from there only.
+Updated readme file
